@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0152-maximum-product-subarray](https://github.com/Subham657-coder/DSAx100/tree/master/0152-maximum-product-subarray) |
 | [0493-reverse-pairs](https://github.com/Subham657-coder/DSAx100/tree/master/0493-reverse-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Simulation
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Subham657-coder/DSAx100/tree/master/0493-reverse-pairs) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0152-maximum-product-subarray](https://github.com/Subham657-coder/DSAx100/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
