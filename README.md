@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0493-reverse-pairs](https://github.com/Subham657-coder/DSAx100/tree/master/0493-reverse-pairs) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Simulation
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
