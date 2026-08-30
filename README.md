@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subham657-coder/DSAx100/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Subham657-coder/DSAx100/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/Subham657-coder/DSAx100/tree/master/0283-move-zeroes) |
 | [0493-reverse-pairs](https://github.com/Subham657-coder/DSAx100/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Subham657-coder/DSAx100/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Subham657-coder/DSAx100/tree/master/0875-koko-eating-bananas) |
@@ -104,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Subham657-coder/DSAx100/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Subham657-coder/DSAx100/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 <!---LeetCode Topics End-->
