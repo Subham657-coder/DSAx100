@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Subham657-coder/DSAx100/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Simulation
 |  |
 | ------- |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
+## Two Pointers
+|  |
+| ------- |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Subham657-coder/DSAx100/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 <!---LeetCode Topics End-->
