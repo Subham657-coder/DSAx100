@@ -7,10 +7,6 @@ public:
                 nonzero++;
             }
         }
-        int swaps=0;
-        for (int i = 0; i < nonzero; i++){
-            if(nums[i]==0) swaps++;
-        }
-        return swaps;
+        return count(nums.begin(), nums.begin() + nonzero, 0);
     }
 };
