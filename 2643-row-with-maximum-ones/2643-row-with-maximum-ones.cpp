@@ -2,23 +2,25 @@ class Solution {
 public:
     vector<int> rowAndMaximumOnes(vector<vector<int>>& mat) {
 
-        int m = mat.size();
-        int n = mat[0].size();
-        int cnt_max = 0;
+        int maxOnes = 0;
         int row = 0;
 
-        for (int i = 0; i < m; i++) {
-            sort(mat[i].begin(),mat[i].end());
-            int pos = lower_bound(mat[i].begin(), mat[i].end(), 1)- mat[i].begin();
+        for (int i = 0; i < mat.size(); i++) {
 
-            int cnt_ones = n - pos;
+            int ones = 0;
 
-            if (cnt_ones > cnt_max) {
-                cnt_max = cnt_ones;
+            for (int j = 0; j < mat[i].size(); j++) {
+                if (mat[i][j] == 1) {
+                    ones++;
+                }
+            }
+
+            if (ones > maxOnes) {
+                maxOnes = ones;
                 row = i;
             }
         }
 
-        return {row, cnt_max};
+        return {row, maxOnes};
     }
 };
