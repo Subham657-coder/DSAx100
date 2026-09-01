@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subham657-coder/DSAx100/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Subham657-coder/DSAx100/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
+| [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
+## Matrix
+|  |
+| ------- |
+| [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
 <!---LeetCode Topics End-->
