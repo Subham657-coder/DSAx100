@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Subham657-coder/DSAx100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Subham657-coder/DSAx100/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
 ## Linked List
 |  |
@@ -152,4 +154,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0240-search-a-2d-matrix-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/Subham657-coder/DSAx100/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Subham657-coder/DSAx100/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
