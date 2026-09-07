@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Subham657-coder/DSAx100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Subham657-coder/DSAx100/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Subham657-coder/DSAx100/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0136-single-number](https://github.com/Subham657-coder/DSAx100/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Subham657-coder/DSAx100/tree/master/0152-maximum-product-subarray) |
@@ -130,12 +131,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Subham657-coder/DSAx100/tree/master/0283-move-zeroes) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Subham657-coder/DSAx100/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Greedy
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/Subham657-coder/DSAx100/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Subham657-coder/DSAx100/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Subham657-coder/DSAx100/tree/master/0145-binary-tree-postorder-traversal) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
