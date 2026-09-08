@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Subham657-coder/DSAx100/tree/master/0009-palindrome-number) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Subham657-coder/DSAx100/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+| [3870-count-commas-in-range](https://github.com/Subham657-coder/DSAx100/tree/master/3870-count-commas-in-range) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Subham657-coder/DSAx100/tree/master/3875-construct-uniform-parity-array-i) |
 ## Hash Table
 |  |
