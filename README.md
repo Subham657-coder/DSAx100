@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/Subham657-coder/DSAx100/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Subham657-coder/DSAx100/tree/master/3875-construct-uniform-parity-array-i) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Subham657-coder/DSAx100/tree/master/0560-subarray-sum-equals-k) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
 ## String
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/0002-add-two-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -226,4 +229,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subham657-coder/DSAx100/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0543-diameter-of-binary-tree) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
