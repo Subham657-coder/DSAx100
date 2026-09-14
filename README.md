@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
 | [1901-find-a-peak-element-ii](https://github.com/Subham657-coder/DSAx100/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
+| [3026-maximum-good-subarray-sum](https://github.com/Subham657-coder/DSAx100/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Subham657-coder/DSAx100/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
+| [3026-maximum-good-subarray-sum](https://github.com/Subham657-coder/DSAx100/tree/master/3026-maximum-good-subarray-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Subham657-coder/DSAx100/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Subham657-coder/DSAx100/tree/master/0560-subarray-sum-equals-k) |
+| [3026-maximum-good-subarray-sum](https://github.com/Subham657-coder/DSAx100/tree/master/3026-maximum-good-subarray-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
