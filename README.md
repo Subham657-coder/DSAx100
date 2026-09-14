@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Subham657-coder/DSAx100/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Subham657-coder/DSAx100/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/Subham657-coder/DSAx100/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Subham657-coder/DSAx100/tree/master/0283-move-zeroes) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Subham657-coder/DSAx100/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Subham657-coder/DSAx100/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0493-reverse-pairs](https://github.com/Subham657-coder/DSAx100/tree/master/0493-reverse-pairs) |
 ## Binary Indexed Tree
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Subham657-coder/DSAx100/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subham657-coder/DSAx100/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0169-majority-element](https://github.com/Subham657-coder/DSAx100/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Subham657-coder/DSAx100/tree/master/0560-subarray-sum-equals-k) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
+| [0169-majority-element](https://github.com/Subham657-coder/DSAx100/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
@@ -260,4 +264,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Subham657-coder/DSAx100/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Subham657-coder/DSAx100/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
