@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/Subham657-coder/DSAx100/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Subham657-coder/DSAx100/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Subham657-coder/DSAx100/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/Subham657-coder/DSAx100/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/Subham657-coder/DSAx100/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Subham657-coder/DSAx100/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Subham657-coder/DSAx100/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Subham657-coder/DSAx100/tree/master/0268-missing-number) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Subham657-coder/DSAx100/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3870-count-commas-in-range](https://github.com/Subham657-coder/DSAx100/tree/master/3870-count-commas-in-range) |
