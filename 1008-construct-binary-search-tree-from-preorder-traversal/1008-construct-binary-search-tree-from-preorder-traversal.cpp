@@ -11,15 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* bstFromPreorder(vector<int>& preorder) {
-        int i=0;
-        return build(preorder,i,INT_MAX);
-    }
-    TreeNode* build(vector<int> A,int& i,int upper){
-        if (i==A.size() || A[i]>upper) return NULL;
-        TreeNode* root=new TreeNode(A[i++]);
-        root->left=build(A,i,root->val);
-        root->right=build(A,i,upper);
+    TreeNode* build(vector<int>& preorder, int &i, int minval, int maxval) {
+        if(i == preorder.size() || preorder[i] < minval || preorder[i] > maxval)
+            return NULL;
+
+        TreeNode* root = new TreeNode(preorder[i++]);
+
+        root->left = build(preorder, i, minval, root->val);
+        root->right = build(preorder, i, root->val, maxval);
+
         return root;
+    }
+
+    TreeNode* bstFromPreorder(vector<int>& preorder) {
+        int i = 0;
+        return build(preorder, i, INT_MIN, INT_MAX);
     }
 };
