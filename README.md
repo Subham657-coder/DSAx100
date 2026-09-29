@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Subham657-coder/DSAx100/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/Subham657-coder/DSAx100/tree/master/1539-kth-missing-positive-number) |
 | [1552-magnetic-force-between-two-balls](https://github.com/Subham657-coder/DSAx100/tree/master/1552-magnetic-force-between-two-balls) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Subham657-coder/DSAx100/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
 | [3026-maximum-good-subarray-sum](https://github.com/Subham657-coder/DSAx100/tree/master/3026-maximum-good-subarray-sum) |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/Subham657-coder/DSAx100/tree/master/0240-search-a-2d-matrix-ii) |
 | [0733-flood-fill](https://github.com/Subham657-coder/DSAx100/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Subham657-coder/DSAx100/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1901-find-a-peak-element-ii](https://github.com/Subham657-coder/DSAx100/tree/master/1901-find-a-peak-element-ii) |
 | [2643-row-with-maximum-ones](https://github.com/Subham657-coder/DSAx100/tree/master/2643-row-with-maximum-ones) |
 ## Sliding Window
@@ -261,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subham657-coder/DSAx100/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Subham657-coder/DSAx100/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
@@ -311,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Subham657-coder/DSAx100/tree/master/0733-flood-fill) |
 | [0863-all-nodes-distance-k-in-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0863-all-nodes-distance-k-in-binary-tree) |
 | [0994-rotting-oranges](https://github.com/Subham657-coder/DSAx100/tree/master/0994-rotting-oranges) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
 ## DP on Trees
 |  |
@@ -368,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Subham657-coder/DSAx100/tree/master/0200-number-of-islands) |
+| [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
