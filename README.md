@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3026-maximum-good-subarray-sum](https://github.com/Subham657-coder/DSAx100/tree/master/3026-maximum-good-subarray-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Subham657-coder/DSAx100/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
+| [3493-properties-graph](https://github.com/Subham657-coder/DSAx100/tree/master/3493-properties-graph) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Subham657-coder/DSAx100/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
 | [3026-maximum-good-subarray-sum](https://github.com/Subham657-coder/DSAx100/tree/master/3026-maximum-good-subarray-sum) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Subham657-coder/DSAx100/tree/master/3483-unique-3-digit-even-numbers) |
+| [3493-properties-graph](https://github.com/Subham657-coder/DSAx100/tree/master/3493-properties-graph) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Subham657-coder/DSAx100/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Subham657-coder/DSAx100/tree/master/3731-find-missing-elements) |
 ## String
@@ -277,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Subham657-coder/DSAx100/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/Subham657-coder/DSAx100/tree/master/3493-properties-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -334,6 +337,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Subham657-coder/DSAx100/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/Subham657-coder/DSAx100/tree/master/3493-properties-graph) |
 ## DP on Trees
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1020-number-of-enclaves](https://github.com/Subham657-coder/DSAx100/tree/master/1020-number-of-enclaves) |
 | [1559-detect-cycles-in-2d-grid](https://github.com/Subham657-coder/DSAx100/tree/master/1559-detect-cycles-in-2d-grid) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/Subham657-coder/DSAx100/tree/master/3493-properties-graph) |
 ## Graph Theory
 |  |
 | ------- |
@@ -402,6 +407,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Subham657-coder/DSAx100/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Subham657-coder/DSAx100/tree/master/0802-find-eventual-safe-states) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Subham657-coder/DSAx100/tree/master/1971-find-if-path-exists-in-graph) |
+| [3493-properties-graph](https://github.com/Subham657-coder/DSAx100/tree/master/3493-properties-graph) |
 ## Graph Coloring
 |  |
 | ------- |
