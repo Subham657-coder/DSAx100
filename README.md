@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subham657-coder/DSAx100/tree/master/0005-longest-palindromic-substring) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Subham657-coder/DSAx100/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Subham657-coder/DSAx100/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0152-maximum-product-subarray](https://github.com/Subham657-coder/DSAx100/tree/master/0152-maximum-product-subarray) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Subham657-coder/DSAx100/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Subham657-coder/DSAx100/tree/master/0005-longest-palindromic-substring) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Subham657-coder/DSAx100/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [1796-second-largest-digit-in-a-string](https://github.com/Subham657-coder/DSAx100/tree/master/1796-second-largest-digit-in-a-string) |
 ## Linked List
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subham657-coder/DSAx100/tree/master/0005-longest-palindromic-substring) |
 | [0075-sort-colors](https://github.com/Subham657-coder/DSAx100/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Subham657-coder/DSAx100/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Subham657-coder/DSAx100/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -429,4 +432,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Subham657-coder/DSAx100/tree/master/0802-find-eventual-safe-states) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Subham657-coder/DSAx100/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
